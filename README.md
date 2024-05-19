@@ -6,7 +6,7 @@ Dates by [Hebcal.com](https://www.hebcal.com/home/developer-apis) api
 
 Demo
 ---
-[he-datepicker demo](#). [Codepen demo](#)
+[Codepen demo](https://codepen.io/shahar2200/pen/qBGbYPg)
 
 
  
